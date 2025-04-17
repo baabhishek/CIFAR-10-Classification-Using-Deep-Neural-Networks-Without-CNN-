@@ -1,4 +1,6 @@
 # CIFAR-10 Image Classification Using Deep Neural Networks (DNN / MLP)
+<img width="902" alt="Screenshot 2568-04-17 at 6 07 27 PM" src="https://github.com/user-attachments/assets/e846ddb8-22bb-4067-baa6-b7690c372f87" />
+
 
 This project demonstrates image classification on the CIFAR-10 dataset using a Deep Neural Network (DNN), also known as a Multi-Layer Perceptron (MLP), without using any Convolutional Neural Networks (CNNs). The key objective of this case study is to classify RGB images into one of ten predefined categories, leveraging fully connected layers and hyperparameter tuning.
 
